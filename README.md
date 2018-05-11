@@ -18,3 +18,26 @@ Materiály k hodinám Pyladies
  * Kostka
 
 4. Soubor `ntice.py`:
+
+## Cvičení na Grafiku 10.5.2018
+
+POZN. Všechny dosud nahrané soubory jsou zatím nezrefaktorované (nezpřehledněné) a neokomentované.
+V dohledné době je ještě opravím a doplním zbylé příklady k pohybu míče a ukázce simulace gravitace.
+
+1. Soubor `okno.py`:
+
+2. Soubor `vykreslovani.py`:
+
+3. Soubor `eventy.py`:
+
+4. Soubor `raketa.py`:
+
+5. Soubor `mic_odrazeni.py`:
+
+6. Složka `obrazky`
+
+ * Složka obsahující všechny použité obrázky
+
+7. Složka `ukazka_tkinter`
+
+ * Ukázka programu v knihovně TKinter
